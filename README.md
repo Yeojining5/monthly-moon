@@ -3,9 +3,10 @@
 # 🌜 월간;문 (Monthly-Moon)
 
 > 🌝 KH 정보교육원 Final-Project <br>
+> 🌝 기  간 : 2022.10.03 ~ 2022.11.16 <br>
 > 🌝 조  장 : 김희라(@rlagmlfk) <br>
 > 🌝 팀  원 : 공이현(@yihyunkong) 이여진(@yeojining5) 최경진(@jin6796) 황산하(@nahx2) <br>
-> 🌝 기  간 : 2022.10.03 ~ 2022.11.16
+<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669205303/SellerMoon_PPT_tvimtf.png"> <br>
 
 <br>
 
@@ -15,7 +16,9 @@
 - 프로젝트명 : **월간;문**
   - 달마다 돌아오는 월경(moon)
   - 구독의 주기마다 문 앞에 배송되는 특성(門)
-
+<br>
+<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669202638/localhost_3000__y6wffv.png">
+<br>
 <br>
 
 ## 2️⃣ 주제 선정 배경 및 의도
