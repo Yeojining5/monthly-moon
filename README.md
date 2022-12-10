@@ -6,6 +6,7 @@
 > 🌝 기  간 : 2022.10.03 ~ 2022.11.16 <br>
 > 🌝 조  장 : 김희라(@rlagmlfk) <br>
 > 🌝 팀  원 : 공이현(@yihyunkong) 이여진(@yeojining5) 최경진(@jin6796) 황산하(@nahx2) <br>
+
 <img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669205303/SellerMoon_PPT_tvimtf.png"> <br>
 
 <br>
@@ -72,5 +73,11 @@
 
 ## 6️⃣ 사용 기술 및 개발 환경
 <img src="https://res.cloudinary.com/drxxdsv01/image/upload/v1668785478/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD_gzf5vr.png">
+
+-	Front-end : `React` `JavaScript` `HTML` `CSS` `Bootstrap`
+-	Back-end : `Spring Framework` `Gradle` `Java` `MyBatis`
+-	DataBase : `Oracle` `FireBase`
+-	오픈소스 : `Cloudinary` `iamport API` `Kakao API`
+-	개발도구 : `Visual Studio Code` `Eclipse 전자정부프레임워크` `Toad for Oracle`
 
 <br>
